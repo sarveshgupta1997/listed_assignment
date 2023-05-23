@@ -1,5 +1,3 @@
-# listed_assignment
-
 Steps:-
 
 1. First step is to set u a new project google cloud console.
